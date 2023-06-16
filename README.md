@@ -1,7 +1,7 @@
 # PulseSensor
 
-
-Escriban aqui cosas sobre su proyecto
+Sensado y procesamiento de datos usando un sensor KY-039.
+Visualización del resultado en una página web local.
 
 ## Así se hacen subtitulos
 
